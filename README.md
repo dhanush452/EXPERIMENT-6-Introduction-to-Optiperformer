@@ -1,5 +1,5 @@
 
-Exp 6 Simulation of Optical Communication System
+# Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
 ## Objective
 Download and install OptiPerformer software on your computer and run a sample file.
@@ -70,22 +70,14 @@ The system includes:
 
 **Transmission Analysis Across Fiber Lengths**
 
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+![WhatsApp Image 2025-11-16 at 6 27 12 PM (1)](https://github.com/user-attachments/assets/efd6b828-91de-4be4-845a-26fcddfab0d7)
 
 ---
 
 ## Graphs
-
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+![WhatsApp Image 2025-11-16 at 6 26 51 PM (1)](https://github.com/user-attachments/assets/21c2e13b-2335-459d-9b4f-712f2a2a8602)
 
 ---
 
 ## RESULT
-
-*(Summarize key findings from simulation and analysis)*
+Simulation of optical communication system is performed successfully.
